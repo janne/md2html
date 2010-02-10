@@ -2,7 +2,7 @@
 
 require 'optparse'
 require 'rubygems'
-require 'activesupport'
+require 'active_support'
 require 'rdiscount'
 require 'digest/md5'
 
